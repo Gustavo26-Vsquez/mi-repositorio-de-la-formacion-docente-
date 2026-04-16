@@ -2,3 +2,6 @@
 
 ## Esto es un poco de mi  autobiografia 
 soy Docente INU 
+
+### Pasa tiempo 
+Jugar futbol 
