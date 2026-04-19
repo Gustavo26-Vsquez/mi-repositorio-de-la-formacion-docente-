@@ -1,6 +1,6 @@
 <!-- Encabezado -->
 <h1 align="center">👋 Hola, soy Gustavo Vásquez</h1>
-<h3 align="center">🎓 Docente de Bachillerato en Desarrollo de Software</h3>
+<h3 align="center">🎓 Docente de Bachillerato en Desarrollo De Software</h3>
  <p align="center"> Pasión: "Enseñar, construir y solucionar"</p>
  <p align="center"> Filosofía: "Cada amanecer es una nueva oportunidad para aprender" </p>
 ---
@@ -12,7 +12,7 @@ Soy un docente:
 - 🌱 Siempre aprendiendo algo nuevo
 - 🤝 Colaborador en proyectos educativos
 
----
+
 
 ### 🛠️ Tecnologías y herramientas
 
@@ -21,7 +21,7 @@ Soy un docente:
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Antigravity](https://img.shields.io/badge/Antigravity-1D9E75?style=for-the-badge&logo=rocket&logoColor=white)
 
----
+
 
 <p align="center">
   <i>"El éxito es la suma de pequeños esfuerzos día tras día 🚀"</i>
