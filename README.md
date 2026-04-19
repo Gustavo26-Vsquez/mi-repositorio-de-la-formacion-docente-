@@ -4,15 +4,14 @@
 
 ---
 
-```javascript
 // about_me.js
 const gustavo = {
-  rol:       "Docente de Desarrollo de Software",
-  nivel:     "Bachillerato técnico",
-  pasión:    "Enseñar, construir y solucionar",
-  filosofía: "Cada amanecer es una aportunidad de aprender algo nuevo 🚀"
+  rol: "Docente de Desarrollo de Software",
+  nivel: "Bachillerato técnico",
+  pasión: "Enseñar, programar y construir",
+  filosofía: "El código que enseñas hoy,
+              forma el dev del mañana 🚀"
 };
-```
 
 ---
 
