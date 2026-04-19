@@ -1,8 +1,8 @@
 <!-- Encabezado -->
 <h1 align="center">👋 Hola, soy Gustavo Vásquez</h1>
 <h3 align="center">🎓 Docente de Bachillerato en Desarrollo de Software</h3>
- <p align="center"> Pasión: "Enseñar, construir y solucionar"
-  filosofía: "Cada amanecer es una nueva oportunidad para aprender" </p>
+ <p align="center"> Pasión: "Enseñar, construir y solucionar"</p>
+ <p align="center"> Filosofía: "Cada amanecer es una nueva oportunidad para aprender" </p>
 ---
 
 ### 🏷️ Sobre mí
