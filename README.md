@@ -1,15 +1,14 @@
 <!-- Encabezado -->
 <h1 align="center">👋 Hola, soy Gustavo Vásquez</h1>
 <h3 align="center">🎓 Docente de Bachillerato en Desarrollo de Software</h3>
- <p> pasión: "Enseñar, programar y construir",
-  filosofía: "El código que enseñas hoy,
-              forma el dev del mañana 🚀" </p>
+ <p align="center"> Pasión: "Enseñar, construir y solucionar"
+  filosofía: "Cada amanecer es una nueva oportunidad para aprender" </p>
 ---
 
 ### 🏷️ Sobre mí
 Soy un docente: 
 - 💻 Comprometido con la enseñanza y la tecnología
-- 🎯 Que se intersa por formar a estudiantes con valores y que quieren mejorar los procesos tecnológicos hoy y del futuro
+- 🎯 Que se intersa por formar a estudiantes con valores y que quieren mejorar los procesos tecnológicos de hoy y del futuro
 - 🌱 Siempre aprendiendo algo nuevo
 - 🤝 Colaborador en proyectos educativos
 
@@ -27,4 +26,4 @@ Soy un docente:
 <p align="center">
   <i>"El éxito es la suma de pequeños esfuerzos día tras día 🚀"</i>
 </p>
-<p align="center">— Gustavo Vásquez</p>
+<p align="center">—  Robert Collier</p>
