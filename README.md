@@ -1,18 +1,9 @@
 <!-- Encabezado -->
 <h1 align="center">👋 Hola, soy Gustavo Vásquez</h1>
 <h3 align="center">🎓 Docente de Bachillerato en Desarrollo de Software</h3>
-
----
-
-// about_me.js
-const gustavo = {
-  rol: "Docente de Desarrollo de Software",
-  nivel: "Bachillerato técnico",
-  pasión: "Enseñar, programar y construir",
+ <p> pasión: "Enseñar, programar y construir",
   filosofía: "El código que enseñas hoy,
-              forma el dev del mañana 🚀"
-};
-
+              forma el dev del mañana 🚀" </p>
 ---
 
 ### 🏷️ Sobre mí
